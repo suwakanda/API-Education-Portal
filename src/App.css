@@ -1,0 +1,20 @@
+.crossed-line {
+    text-decoration: line-through;
+}
+
+body {
+    background: #20262E;
+    padding: 20px;
+  }
+  
+  #app {
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    transition: all 0.2s;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
